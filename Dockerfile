@@ -1,3 +1,5 @@
+# stuartfenton/docker-golang-base
+
 FROM google/debian:wheezy
 
 RUN apt-get update -y && apt-get install --no-install-recommends -y -q curl build-essential ca-certificates git mercurial bzr
