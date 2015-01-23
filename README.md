@@ -1,5 +1,5 @@
 
-# stuartfenton/golang
+# stuartfenton/docker-golang-base
 
 Based on [`google/golang`](https://index.docker.io/u/google/golang) but I have updated it to work with 1.4.1 as a [docker](https://docker.io) base image that bundles the latest version of [golang](http://golang.org) installed from [golang.org](http://golang.org/doc/install/).
 
