@@ -1,7 +1,6 @@
-
 # stuartfenton/docker-golang-base
 
-Based on [`google/golang`](https://index.docker.io/u/google/golang) but I have updated it to work with 1.4.1 as a [docker](https://docker.io) base image that bundles the latest version of [golang](http://golang.org) installed from [golang.org](http://golang.org/doc/install/).
+Based on [`docker/golang`](https://index.docker.io/u/google/golang) but I have updated it to work with 1.5.0 as a [docker](https://docker.io) base image that bundles the latest version of [golang](http://golang.org) installed from [golang.org](http://golang.org/doc/install/).
 
 It serves as a base for the [`stuartfenton/docker-golang-runtime`](https://index.docker.io/u/google/golang-runtime) image.
 
